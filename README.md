@@ -1,5 +1,7 @@
 # Salus Exteriors Houston — Website Mockup Concept
 
+**Live demo:** https://altuswebsol-arch.github.io/mockup-salus-exteriors-houston/
+
 A homepage redesign concept for **Salus Exteriors Houston** in Houston, USA — a exteriors business.
 
 ## Design
